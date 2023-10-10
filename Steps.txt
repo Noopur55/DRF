@@ -1,0 +1,16 @@
+Step-1: Create a folder under users(DRF)
+Step-2: Create one venve folder inside DRf folder which will contain all the venv for our requirement
+        py -m venv venv
+Step3:  Activate the venv everytime you working with this project.
+        .\venv\Scripts\activate
+Step-4: Do pip freeze to see which packages you have installed using pip or pipenv.
+Step-5: Now save workspace as drf-code workspace
+Step-6: Create one file requirements.txt and list all the packages, for django its latest version as django
+        evolves itself and go for LTS version.
+Step-7: Do pip install -r requirements.txt
+Step-8: Create folder backend and py_client
+Step-9: cd backend and django-admin startproject cfehome . (so it will create inside backend folder)
+
+
+Step-10: Creating Python API Client:
+         
