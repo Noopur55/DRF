@@ -13,4 +13,5 @@ Step-9: cd backend and django-admin startproject cfehome . (so it will create in
 
 
 Step-10: Creating Python API Client:
+         i) Create one file basic.py
          
